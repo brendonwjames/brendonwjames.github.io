@@ -296,7 +296,7 @@ html {
 
 .section-heading {
     text-align: center;
-    padding: 80px 45px;
+    padding: 40px 22.5px;
 }
 
 .section-heading h2 {
@@ -310,6 +310,7 @@ html {
     height: 3px;
     background-color: #a43f49;
     margin: 10px auto;
+    text-align: center;
 }
 
 .section-heading span {
@@ -364,6 +365,12 @@ button:hover {
 /* Left & Right Post */
 
 .right-image-post {
+    margin-top: 30px;
+    padding-top: 30px;
+    border-top: 2px solid rgba(250, 250, 250, 0.1);
+}
+
+.left-image-post {
     margin-top: 60px;
     padding-top: 60px;
     border-top: 2px solid rgba(250, 250, 250, 0.1);
